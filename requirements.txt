@@ -3,3 +3,4 @@ kafka-python
 xgboost
 graphviz
 math
+elasticsearch
