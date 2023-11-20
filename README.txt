@@ -1,4 +1,10 @@
-Group_2
+# **Synthesis of Adversarial DDoS Attacks Using Tabular Generative Adversarial Networks**
+
+### Project Description
+
+Create Real-Time Network Intrusion Detection Systems (NIDS) that detect incoming malicious traffic
+in real time using Random Forest and Kafka and evaluate the system with generated new artificial
+malicious traffic using GANs.
 
 Notes:
 We pushed the following files:
